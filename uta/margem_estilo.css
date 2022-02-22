@@ -1,0 +1,14 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+body{
+  background-color: #400551;
+}
+
+.logo_app{
+    width:86px;
+    heigth:86px;
+    margin-left: 123px;
+    }
